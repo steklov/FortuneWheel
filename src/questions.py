@@ -1,0 +1,62 @@
+questions = {
+    'People': [
+        'YOUNG & TRENDY CROWDS',
+        'MASTER OF ILLUSION',
+        'QUICK-DRAW ARTIST',
+        "OUR COUNTRY'S FOREFATHERS",
+        'NOBEL PRIZE RECIPIENTS',
+        'OFFICIAL FAN CLUB',
+        'PARK HOPPERS',
+        'ONE BIG HAPPY FAMILY',
+        'PARENTS OF TWINS',
+        'PERFECT COUPLE'
+    ],
+    'Event': [
+        'SPRING CLEANING',
+        'DINING AT A SEASIDE RESTAURANT',
+        'A TRIP TO THE SUNSHINE STATE',
+        'HOUSE PARTIES',
+        'BANK VAULT',
+        'A BIG NIGHT OUT',
+        'A NEW DINOSAUR ADVENTURE',
+        'GETTING MARRIED',
+        'GRACEFUL EXIT',
+        'GRAND-SLAM HOME RUN'
+    ],
+    'Food and Drink': [
+        'MAPLE & BROWN SUGAR OATMEAL',
+        'BRAISED HAIRY CRABS',
+        'APPLE BUTTER & APPLE FRITTERS',
+        'BALSAMIC VINEGAR DRESSING',
+        'A WARM BOWL OF CORNED BEEF & CABBAGE',
+        'CHEESE & CRACKERS',
+        'COOKED WHEAT-FLOUR DOUGH WITH HONEY',
+        'CHOCOLATE SOUFFLE CAKE',
+        'CASHEWS ALMONDS & SPANISH NUTS',
+        'ALL-PURPOSE WHITE FLOUR'
+    ],
+    'Same Name': [
+        'FRYING & FLASH IN THE PAN',
+        'CULTURE & COUNTRY CLUB',
+        "COUNTY & CHILD'S CAR SEAT",
+        'CONTACT & SHOPPING LIST',
+        'COLLEGE & CLASS PRESIDENT',
+        'COUGH & MAIL DROP',
+        'MAGICAL AND WIND POWER',
+        'WEDDING & CELL PHONE RECEPTION',
+        'LIVE ON & FIRST LOVE',
+        'LITTLE RED RIDING & ROBIN HOOD'
+    ],
+    'Thing': [
+        'SHEEPSKIN RIDING COAT',
+        'CANDLE CLOCK',
+        'CHRISTMAS WREATHS',
+        'CITY SKYLINE',
+        'DAZZLING ENGAGEMENT RING',
+        'CANTONESE OPERA',
+        'CHOCOLATE LAYER CAKE',
+        'CLOUDY SKY',
+        'COMMENTS & SUGGESTIONS',
+        'COMBINATION LOCK'
+    ]
+}
